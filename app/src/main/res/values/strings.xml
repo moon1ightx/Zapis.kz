@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zapis.kz</string>
+
+    <string name="menu_item_dashboard">Главная</string>
+    <string name="menu_item_explore">Поиск</string>
+    <string name="menu_item_profile">Профайл</string>
+    <string name="name">Name</string>
+    <string name="Address">address</string>
+
+    <string name="recommendations">Рекоммендации</string>
+    <string name="popular">Популярные</string>
+    <string name="recentlyAdded">Новые</string>
+    <string name="service_list">Список услуг</string>
+    <string name="price">price</string>
+    <string name="duration">duration</string>
+    <string name="service_name">service name</string>
+</resources>

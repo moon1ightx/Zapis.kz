@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/menu_item_dashboard"/>
+    <item
+        android:id="@+id/explore"
+        android:enabled="true"
+        android:icon="@drawable/ic_explore"
+        android:title="@string/menu_item_explore"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/menu_item_profile"/>
+</menu>
